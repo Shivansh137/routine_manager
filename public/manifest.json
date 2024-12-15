@@ -1,0 +1,62 @@
+{
+    "name": "Routine Manager",
+    "short_name": "Routine Manager",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color":"#fff",
+    "orientation":"portrait",
+    "description": "App to manage your daily Routine",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "type": "image/x-icon",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/icon-192-maskable.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/icon-512-maskable.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshot_mobile1.png",
+            "sizes": "1260x2415",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Homescreen of the App"
+        },
+        {
+            "src": "/screenshot_mobile2.png",
+            "sizes": "1260x2415",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Add new transaction form"
+        },
+        {
+            "src": "/screenshot_wide1.png",
+            "sizes": "1920x1080",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Homescreen of the App"
+        }
+    ]
+}
